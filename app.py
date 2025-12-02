@@ -15,9 +15,9 @@ import os
 # client = genai.Client()
 
 # TO:
-client = genai.Client(api_key=secrets.toml["gemini_api_key"])
+client = genai.Client(api_key="AIzaSyBKupnUpF6bk79INhuIwAR2AlJBZzsVzLA")
 
-
+# gemini_api_key = "AIzaSyBKupnUpF6bk79INhuIwAR2AlJBZzsVzLA"
 
 
 # 1. & 3. Document Analysis Function
